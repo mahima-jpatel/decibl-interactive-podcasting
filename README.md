@@ -5,7 +5,7 @@ With dynamic branching using LangGraph and realistic voice generation via Eleven
 
 ---
 
-## 🚀 Features
+## Features
 
 - Topic-driven podcast generation
 - Script writing powered by GPT-4 / GPT-4o
